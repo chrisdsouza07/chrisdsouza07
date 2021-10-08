@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://app.daily.dev/chrisdsouza07"><img src="https://github.com/chrisdsouza07/chrisdsouza07/blob/main/devcard.svg" width="400" alt="Chris Dsouza's Dev Card"/></a>
-<img src="https://github.com/chrisdsouza07/chrisdsouza07/blob/main/devcard.svg">
+
 <!--
 
 Here are some ideas to get you started:
