@@ -26,7 +26,7 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          devcard_id: ${{ secrets.devcard_id }}
           
   # This workflow contains a single job called "build"
   build:
