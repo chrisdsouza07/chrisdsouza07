@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/chrisdsouza07"><img src="https://api.daily.dev/devcards/9e3e91afc27943608604dc027408ae76.png?r=lj1" width="400" alt="Chris Dsouza's Dev Card"/></a>
+<a href="https://app.daily.dev/chrisdsouza07"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Dsouza's Dev Card"/></a>
 
 <!--
 
